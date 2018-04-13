@@ -10,7 +10,6 @@ Jump to:
 
 - `How to use SyncBN`_
 - `MNIST example <https://github.com/zhanghang1989/MXNet-Gluon-SyncBN/blob/master/mnist.ipynb>`_
-- `Load Pre-trained Network`_
 
 Install PyTorch and Encoding Package from Source
 ------------------------------------------------
