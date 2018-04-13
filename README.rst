@@ -18,17 +18,23 @@ Install PyTorch and Encoding Package from Source
 
 * Install `Encoding package <http://hangzh.com/PyTorch-Encoding/index.html>`_ :
 
-  - Clone the repo::
+  - Clone the repo
+  
+  .. code::
 
     git clone https://github.com/zhanghang1989/PyTorch-Encoding && cd PyTorch-Encoding
 
   - On Linux::
 
+  .. code::
+  
     pip install -r requirements.txt
     python setup.py install
 
   - On Mac OSX::
 
+  .. code::
+  
     pip install -r requirements.txt
     MACOSX_DEPLOYMENT_TARGET=10.9 CC=clang CXX=clang++ python setup.py install
 
