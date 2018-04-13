@@ -4,7 +4,7 @@ created by `Hang Zhang <http://hangzh.com/>`_
 
 [`Link to MXNet Gluon Implementation <https://github.com/zhanghang1989/MXNet-Gluon-SyncBN/>`_] 
 
-Synchronized Batch Normalization (SyncBN) [1]_ . We follow the sync-onece implmentation described in the paper [2]_ . If you are not familiar with Synchronized Batch Normalization, please see this `blog <http://hangzh.com/SynchronizeBN/>`_. 
+Synchronized Batch Normalization (SyncBN) [1]_ . We follow the sync-onece implmentation described in the paper [2]_ . If you are not familiar with Synchronized Batch Normalization, please see this `blog <http://hangzh.com/blog/SynchronizeBN/>`_. 
 
 Jump to:
 
