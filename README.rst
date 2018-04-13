@@ -9,7 +9,7 @@ Synchronized Batch Normalization (SyncBN) [1]_ . We follow the sync-onece implme
 Jump to:
 
 - `How to use SyncBN`_
-- `MNIST example <https://github.com/zhanghang1989/MXNet-Gluon-SyncBN/blob/master/mnist.ipynb>`_
+- `MNIST example <https://github.com/zhanghang1989/PyTorch-SyncBatchNorm/blob/master/mnist.ipynb>`_
 
 Install PyTorch and Encoding Package from Source
 ------------------------------------------------
