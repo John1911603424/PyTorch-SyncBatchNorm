@@ -43,7 +43,9 @@ MNIST Example
 
 Please visit the `python notebook <https://github.com/zhanghang1989/PyTorch-SyncBatchNorm/blob/master/mnist.ipynb>`_
 
-See `mnist.py <https://github.com/zhanghang1989/PyTorch-SyncBatchNorm/blob/master/mnist.py>`_
+See `mnist.py <https://github.com/zhanghang1989/PyTorch-SyncBatchNorm/blob/master/mnist.py>`_, run the experiments::
+  
+  CUDA_VISIBLE_DEVICES=0,1,2,3 python tests/mnist.py
 
 Reference
 ---------
