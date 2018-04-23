@@ -4,7 +4,7 @@ created by `Hang Zhang <http://hangzh.com/>`_
 
 [`Link to MXNet Gluon Implementation <https://github.com/zhanghang1989/MXNet-Gluon-SyncBN/>`_] 
 
-This is a tutorial of using Synchronized Batch Normalization (SyncBN) [1]_, which is the first open source SyncBN released on 09/2017. We follow the sync-onece implmentation described in the paper [2]_ . If you are not familiar with Synchronized Batch Normalization, please see this `blog <http://hangzh.com/blog/SynchronizeBN/>`_. 
+This is a tutorial of using `SynchronizedBatch Normalization (SyncBN) <http://hangzh.com/PyTorch-Encoding/syncbn.html#encoding.nn.BatchNorm2d>`_ [1]_, which is **the first open source SyncBN released on 09/2017**. We follow the sync-onece implmentation described in the paper [2]_ . If you are not familiar with Synchronized Batch Normalization, please see this `blog <http://hangzh.com/blog/SynchronizeBN/>`_. 
 
 Jump to:
 
